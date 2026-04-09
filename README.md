@@ -14,7 +14,7 @@
 
 ### About Me
 
-Full Stack Developer at **Finstein**, building production applications across web and mobile with Angular, Next.js, React Native (Expo), and NestJS. Previously a STEM Instructor at LMES Academy, teaching programming and robotics to students.
+Full Stack Developer at **Finstein**, building production applications across web and mobile with Angular, Next.js, React Native (Expo), and NestJS. Previously a STEM Instructor at LMES Academy, teaching programming to students.
 
 - 🔭 Currently working on **full-stack web & mobile applications** at Finstein
 - 🚀 Active open source contributor — **13 merged PRs** across **VS Code**, **NestJS CLI**, and **Angular CLI**
@@ -91,7 +91,7 @@ Full Stack Developer at **Finstein**, building production applications across we
 <br/>Building web and mobile applications with Angular, NestJS, React Native (Expo), and PostgreSQL.
 
 **STEM Instructor** — LMES Academy · Jul 2023 – Jul 2024
-<br/>Taught programming, robotics, and app development using MIT App Inventor and Python.
+<br/>Taught programming, App development using MIT App Inventor and Python.
 
 ---
 
