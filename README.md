@@ -136,29 +136,29 @@ Full Stack Developer at **Finstein**, shipping production web and mobile apps ac
 
 ### Featured Projects
 
-**SpotMart v2** — B2B Multi-Vendor Marketplace
+**B2B Multi-Vendor Marketplace**
 <br/>WordPress + WooCommerce + Dokan · PHP · MariaDB · Redis · Docker Compose · GitLab CI/CD · Apache · LiteSpeed
-<br/>Indian B2B marketplace with reverse auction bidding, KYC/seller verification, AI-powered product creation (AWS Lambda), live chat, and dispute management. 17+ custom WordPress plugins, full Docker Compose infra, and a backup → deploy → rollback CI/CD pipeline to Hostinger.
+<br/>B2B marketplace with reverse auction bidding, KYC/seller verification, AI-powered product creation (AWS Lambda), live chat, and dispute management. 17+ custom WordPress plugins, full Docker Compose infra, and a backup → deploy → rollback CI/CD pipeline.
 
-**WhatsApp Commerce Bot** — Conversational Commerce
+**Conversational Commerce Bot**
 <br/>NestJS 11 · TypeScript · SQLite · Express 5 · Meta WhatsApp Cloud API
 <br/>Production-grade bot bridging WhatsApp Business API to a WooCommerce/Dokan marketplace. Customers browse products, manage carts, place orders, request quotes, and resolve disputes — all via WhatsApp. HMAC-SHA256 webhook verification, idempotency via SQLite, and multi-step conversation state.
 
-**SKC** — Enterprise Sales & Commerce Analytics
+**Enterprise Sales & Commerce Analytics Platform**
 <br/>NestJS 10 · Next.js 15 · React 18 · PostgreSQL · Redis · Bull/BullMQ · Socket.io · D3.js · Chart.js
-<br/>Multi-channel analytics platform aggregating Shopify, Meta Ads, Zepto, Blinkit, Instamart, BigBasket, EasyEcom, and Amazon. Real-time dashboards, dynamic report builder, cohort analysis, 2FA/MFA (TOTP), CASL RBAC, and **192+ API endpoints**. IMAP-based email polling for QC platform verification.
+<br/>Multi-channel analytics platform aggregating 8+ e-commerce and quick-commerce channels. Real-time dashboards, dynamic report builder, cohort analysis, 2FA/MFA (TOTP), CASL RBAC, and **192+ API endpoints**. IMAP-based email polling for platform verification.
 
-**RizzFitt** — Cross-Platform Fitness Ecosystem
+**Cross-Platform Fitness Ecosystem**
 <br/>NestJS 10 · React Native + Expo 51 · Next.js 15 · PostgreSQL · Socket.io · OpenAI GPT-4o
-<br/>Mobile app, admin dashboard, and marketing website for a fitness platform. Trainer bookings, workout planning, AI coaching (GPT-4o), social fitness (buddy system), real-time messaging, Razorpay payments, and Firebase/Expo push notifications.
+<br/>Mobile app, admin dashboard, and marketing website for a fitness platform. Trainer bookings, workout planning, AI coaching (GPT-4o), social fitness (buddy system), real-time messaging, payment processing, and push notifications.
 
-**Dr. Finstein** — Health & Hydration Tracker
+**Health & Wellness Mobile App**
 <br/>NestJS 10 · Angular 18 · Ionic 8 · Capacitor 6 · MySQL · Keycloak SSO · Firebase
 <br/>Hybrid mobile app for hydration tracking, step counting, and health goal management with Keycloak-based SSO and Firebase push notifications.
 
-**CRC Enterprise Data Platform** *(Learning)* — Insurance Data Warehouse
+**Enterprise Data Warehouse** *(Learning)*
 <br/>Databricks · PySpark · Scala · Delta Lake · dbt · Azure ADLS · Power BI · Dynatrace
-<br/>Medallion architecture (Bronze → Silver → Gold) for an insurance intermediary, powering 9 executive Power BI dashboards. SCD Type 1/2, Delta Lake optimizations (OPTIMIZE, VACUUM, Z-ORDER), and Databricks Asset Bundles for IaC. Currently upskilling in this domain.
+<br/>Medallion architecture (Bronze → Silver → Gold) powering executive Power BI dashboards in the insurance domain. SCD Type 1/2, Delta Lake optimizations (OPTIMIZE, VACUUM, Z-ORDER), and Databricks Asset Bundles for IaC. Currently upskilling in this domain.
 
 ---
 
