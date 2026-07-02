@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Maruthan G
+# Maruthan G
 
-**Full Stack Developer** · Building scalable web & mobile applications
+**Full Stack Developer** · TypeScript Ecosystems · Open Source Contributor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maruthan-g-6a7415201)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maruthang)
@@ -14,12 +14,12 @@
 
 ### About Me
 
-Full Stack Developer at **Finstein**, shipping production web and mobile apps across NestJS, Next.js, Angular, and React Native (Expo). Previously a STEM Instructor at LMES Academy, teaching programming and robotics.
+Full Stack Developer at **Finstein**, shipping production web and mobile applications across NestJS, Next.js, Angular, React Native (Expo), and data platforms. Previously a STEM Instructor at LMES Academy.
 
-- 🔭 Currently building **full-stack web & mobile applications** at Finstein
-- 🚀 Active open source contributor — **57 merged PRs** + **103 open PRs** across **VS Code**, **NestJS** (CLI / Swagger / GraphQL), **Node.js undici**, **BullMQ**, **Angular CLI**, **Swagger UI**, and **Excalidraw**
+- 🔭 Building **full-stack web & mobile applications** and **data-driven platforms** at Finstein
+- 🚀 Active open source contributor — **68 merged PRs** and **125 open PRs** across **VS Code**, **NestJS** (CLI / Swagger / GraphQL), **Node.js** (core & undici), **BullMQ**, **Vite**, **Angular CLI**, **Swagger UI**, and **Excalidraw**
 - 🛠️ Specializing in **TypeScript ecosystems** — NestJS, Next.js, Angular, React Native, and developer tooling
-- 🧪 Currently upskilling in **Data Engineering** — Databricks, PySpark, Delta Lake, dbt, Power BI
+- 📊 Data engineering with **Databricks, PySpark, Delta Lake, dbt, and Power BI**
 - 📍 Based in **Chennai, India**
 
 ---
@@ -62,6 +62,15 @@ Full Stack Developer at **Finstein**, shipping production web and mobile apps ac
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
 
+**Data Engineering**
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -69,7 +78,6 @@ Full Stack Developer at **Finstein**, shipping production web and mobile apps ac
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square&logo=databricks&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 
 **Cloud & DevOps**
@@ -82,47 +90,45 @@ Full Stack Developer at **Finstein**, shipping production web and mobile apps ac
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Data Engineering** *(Currently Learning)*
-
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
 ---
 
 ### Open Source Contributions
 
-**57 merged pull requests** and **103 open PRs** across major developer tools, frameworks, and runtimes:
+**68 merged pull requests** and **125 open PRs** across major runtimes, frameworks, and developer tools:
 
 | Project | Stars | Merged | Open | Focus |
 |---------|-------|:------:|:----:|-------|
-| [nestjs/nest-cli](https://github.com/nestjs/nest-cli) | 2.1k+ | 15 | 2 | SWC compiler, watch mode, build system, async shutdown hooks, signal forwarding |
-| [nestjs/swagger](https://github.com/nestjs/swagger) | 1.4k+ | 14 | 0 | Schema handling, plugin fixes, enum mutation, TS project references, SWC metadata |
-| [microsoft/vscode](https://github.com/microsoft/vscode) | 183k+ | 12 | 46 | ANSI escape handling, chat/terminal tooling, editor UI, context key services |
-| [nestjs/graphql](https://github.com/nestjs/graphql) | 1.5k+ | 6 | 0 | Apollo subscriptions, abstract directive inheritance, global prefix handling |
-| [nodejs/undici](https://github.com/nodejs/undici) | 7k+ | 4 | 2 | HTTP interceptors, redirect options, type definitions |
-| [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) | 7k+ | 3 | 13 | Worker scheduler registry, repeatable jobs, queue internals |
+| [nestjs/nest-cli](https://github.com/nestjs/nest-cli) | 2.1k+ | 18 | 1 | Build system, SWC compiler, watch mode, signal forwarding, monorepo assets |
+| [microsoft/vscode](https://github.com/microsoft/vscode) | 183k+ | 14 | 58 | Editor core, chat & agent sessions, debug, terminal, workbench UI |
+| [nestjs/swagger](https://github.com/nestjs/swagger) | 1.4k+ | 14 | 0 | Schema handling, CLI plugin fixes, enum mutation, TS project references |
+| [nestjs/graphql](https://github.com/nestjs/graphql) | 1.5k+ | 9 | 0 | Apollo drivers, federation directives, subscriptions, decorator metadata |
+| [nodejs/undici](https://github.com/nodejs/undici) | 7k+ | 6 | 0 | Fetch spec compliance, cache keys, interceptors, type definitions |
+| [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) | 7k+ | 4 | 13 | Worker scheduler registry, repeatable jobs, queue internals, Lua scripts |
 | [angular/angular-cli](https://github.com/angular/angular-cli) | 27k+ | 2 | 3 | Build system, error stack traces, styleUrl validation |
-| [microsoft/vscode-html-languageservice](https://github.com/microsoft/vscode-html-languageservice) | 400+ | 1 | 7 | HTML language service fixes |
+| [microsoft/vscode-html-languageservice](https://github.com/microsoft/vscode-html-languageservice) | 400+ | 1 | 7 | Completion ranges, scanner and parser fixes |
+| [nodejs/node](https://github.com/nodejs/node) | 110k+ | 0 | 12 | fs, streams, buffer, crypto, test_runner, CLI options |
 | [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) | 27k+ | 0 | 12 | OAS 3.1 schema refs, auth popup styling, OAuth2 tests |
-| [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 100k+ | 0 | 10 | Drawing tool fixes, UI improvements |
+| [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 100k+ | 0 | 9 | Drawing tool fixes, UI improvements |
+| [vitejs/vite](https://github.com/vitejs/vite) | 70k+ | 0 | 6 | Dev server HTML handling, CSS bundling, module graph, asset pipeline |
 
 **Recent merged highlights:**
 
-- `nodejs/undici` [#5066](https://github.com/nodejs/undici/pull/5066) — fix(interceptor): add `throwOnMaxRedirect` to types and interceptor opts
-- `microsoft/vscode` [#307960](https://github.com/microsoft/vscode/pull/307960) — fix: handle heredoc/multiline commands in terminal tool execution
-- `microsoft/vscode` [#307593](https://github.com/microsoft/vscode/pull/307593) — fix: clear parent change listener before disposeContext in ScopedContextKeyService
-- `nestjs/graphql` [#3937](https://github.com/nestjs/graphql/pull/3937) — fix(apollo): respect `useGlobalPrefix` on custom subscription path
-- `nestjs/graphql` [#3938](https://github.com/nestjs/graphql/pull/3938) — fix(@nestjs/graphql): inherit class directives from abstract parents
+- `nestjs/graphql` [#3970](https://github.com/nestjs/graphql/pull/3970) — fix(@nestjs/graphql): run plugin refresh hooks in registration order
+- `nestjs/graphql` [#3969](https://github.com/nestjs/graphql/pull/3969) — fix(@nestjs/apollo): expose schema transform hook on gateway driver
+- `nestjs/nest-cli` [#3422](https://github.com/nestjs/nest-cli/pull/3422) — fix(start): forward signals to child and exit watcher on shutdown
+- `nodejs/undici` [#5081](https://github.com/nodejs/undici/pull/5081) — fix(cache): include query in cache key when `opts.path` is undefined
+- `nodejs/undici` [#5068](https://github.com/nodejs/undici/pull/5068) — fix(fetch): prefer `filename*` over `filename` in multipart form-data
+- `microsoft/vscode` [#312492](https://github.com/microsoft/vscode/pull/312492) — webview: respect default `localResourceRoots` for custom editors
+- `microsoft/vscode` [#310979](https://github.com/microsoft/vscode/pull/310979) — fix(chat): cancel in-flight streaming tool invocations when response is cancelled
+- `taskforcesh/bullmq` [#4058](https://github.com/taskforcesh/bullmq/pull/4058) — fix(flow-producer): surface `ParentJobNotExist` errors from `add()`
 - `taskforcesh/bullmq` [#4007](https://github.com/taskforcesh/bullmq/pull/4007) — fix(worker): use scheduler registry to discriminate repeatable keys
-- `nestjs/swagger` [#3803](https://github.com/nestjs/swagger/pull/3803) — fix(plugin): skip auto-generated response decorator when `Api*Response` already present
-- `nestjs/nest-cli` [#3338](https://github.com/nestjs/nest-cli/pull/3338) — fix(start): skip signal forwarding in watch mode
+- `nestjs/graphql` [#3938](https://github.com/nestjs/graphql/pull/3938) — fix(@nestjs/graphql): inherit class directives from abstract parents
 
 **Currently contributing to:**
 
 <a href="https://github.com/microsoft/vscode"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"></a>
+<a href="https://github.com/nodejs/node"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
+<a href="https://github.com/vitejs/vite"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"></a>
 <a href="https://github.com/nestjs/nest-cli"><img src="https://img.shields.io/badge/NestJS_CLI-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS CLI"></a>
 <a href="https://github.com/nestjs/swagger"><img src="https://img.shields.io/badge/NestJS_Swagger-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS Swagger"></a>
 <a href="https://github.com/nestjs/graphql"><img src="https://img.shields.io/badge/NestJS_GraphQL-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS GraphQL"></a>
@@ -138,15 +144,19 @@ Full Stack Developer at **Finstein**, shipping production web and mobile apps ac
 
 **B2B Multi-Vendor Marketplace**
 <br/>WordPress + WooCommerce + Dokan · PHP · MariaDB · Redis · Docker Compose · GitLab CI/CD · Apache · LiteSpeed
-<br/>B2B marketplace with reverse auction bidding, KYC/seller verification, AI-powered product creation (AWS Lambda), live chat, and dispute management. 17+ custom WordPress plugins, full Docker Compose infra, and a backup → deploy → rollback CI/CD pipeline.
+<br/>B2B marketplace with reverse auction bidding, KYC/seller verification, AI-powered product creation (AWS Lambda), live chat, and dispute management. 17+ custom WordPress plugins, full Docker Compose infrastructure, and a backup → deploy → rollback CI/CD pipeline.
 
 **Conversational Commerce Bot**
 <br/>NestJS 11 · TypeScript · SQLite · Express 5 · Meta WhatsApp Cloud API
-<br/>Production-grade bot bridging WhatsApp Business API to a WooCommerce/Dokan marketplace. Customers browse products, manage carts, place orders, request quotes, and resolve disputes — all via WhatsApp. HMAC-SHA256 webhook verification, idempotency via SQLite, and multi-step conversation state.
+<br/>Production-grade bot bridging the WhatsApp Business API to a WooCommerce/Dokan marketplace. Customers browse products, manage carts, place orders, request quotes, and resolve disputes — all via WhatsApp. HMAC-SHA256 webhook verification, idempotency via SQLite, and multi-step conversation state.
 
 **Enterprise Sales & Commerce Analytics Platform**
 <br/>NestJS 10 · Next.js 15 · React 18 · PostgreSQL · Redis · Bull/BullMQ · Socket.io · D3.js · Chart.js
 <br/>Multi-channel analytics platform aggregating 8+ e-commerce and quick-commerce channels. Real-time dashboards, dynamic report builder, cohort analysis, 2FA/MFA (TOTP), CASL RBAC, and **192+ API endpoints**. IMAP-based email polling for platform verification.
+
+**Enterprise Data Warehouse**
+<br/>Databricks · PySpark · Scala · Delta Lake · dbt · Azure ADLS · Power BI · Dynatrace
+<br/>Medallion architecture (Bronze → Silver → Gold) powering executive Power BI dashboards in the insurance domain. SCD Type 1/2 dimension handling, Delta Lake optimizations (OPTIMIZE, VACUUM, Z-ORDER), and Databricks Asset Bundles for infrastructure-as-code.
 
 **Cross-Platform Fitness Ecosystem**
 <br/>NestJS 10 · React Native + Expo 51 · Next.js 15 · PostgreSQL · Socket.io · OpenAI GPT-4o
@@ -156,19 +166,15 @@ Full Stack Developer at **Finstein**, shipping production web and mobile apps ac
 <br/>NestJS 10 · Angular 18 · Ionic 8 · Capacitor 6 · MySQL · Keycloak SSO · Firebase
 <br/>Hybrid mobile app for hydration tracking, step counting, and health goal management with Keycloak-based SSO and Firebase push notifications.
 
-**Enterprise Data Warehouse** *(Learning)*
-<br/>Databricks · PySpark · Scala · Delta Lake · dbt · Azure ADLS · Power BI · Dynatrace
-<br/>Medallion architecture (Bronze → Silver → Gold) powering executive Power BI dashboards in the insurance domain. SCD Type 1/2, Delta Lake optimizations (OPTIMIZE, VACUUM, Z-ORDER), and Databricks Asset Bundles for IaC. Currently upskilling in this domain.
-
 ---
 
 ### Experience
 
 **Full Stack Developer** — Finstein · Jul 2024 – Present
-<br/>Building production web and mobile applications across NestJS, Next.js, Angular, React Native (Expo), PostgreSQL, and Redis.
+<br/>Building production web and mobile applications across NestJS, Next.js, Angular, React Native (Expo), PostgreSQL, Redis, and data platforms with Databricks, PySpark, and Power BI.
 
 **STEM Instructor** — LMES Academy · Jul 2023 – Jul 2024
-<br/>Taught programming, App development using MIT App Inventor and Python.
+<br/>Taught programming and app development using MIT App Inventor and Python.
 
 ---
 
