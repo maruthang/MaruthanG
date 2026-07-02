@@ -14,13 +14,13 @@
 
 ### About Me
 
-Data Engineer at **Finstein**, building scalable data platforms on Databricks, PySpark, Delta Lake, and Spark SQL. I work across the full data lifecycle — ingestion, transformation, and serving — using medallion (Bronze / Silver / Gold) lakehouse pipelines, data modeling, and Spark performance tuning.
+Data Engineer at **Finstein**, building scalable data platforms on Databricks, PySpark, Delta Lake, and Spark SQL. I work across the full data lifecycle - ingestion, transformation, and serving - using medallion (Bronze / Silver / Gold) lakehouse pipelines, data modeling, and Spark performance tuning.
 
-I'm also a Full Stack Developer — I build web and mobile applications end to end with NestJS, TypeScript, Angular, Next.js, and Expo. That software-engineering foundation is what makes my data work production-grade: clean code, version control, CI/CD, and testing.
+I'm also a Full Stack Developer - I build web and mobile applications end to end with NestJS, TypeScript, Angular, Next.js, and Expo. That software-engineering foundation is what makes my data work production-grade: clean code, version control, CI/CD, and testing.
 
-- 📊 Building **enterprise lakehouse pipelines** at Finstein — medallion architecture, Delta Lake optimization, Unity Catalog
-- 🚀 Active open source contributor — **68 merged PRs** and **125 open PRs** across **VS Code**, **NestJS** (CLI / Swagger / GraphQL), **Node.js** (core & undici), **BullMQ**, **Vite**, **Angular CLI**, **Swagger UI**, and **Excalidraw**
-- 🛠️ Strong in **TypeScript ecosystems** — NestJS, Next.js, Angular, React Native, and developer tooling
+- 📊 Building **enterprise lakehouse pipelines** at Finstein - medallion architecture, Delta Lake optimization, Unity Catalog
+- 🚀 Active open source contributor - **68 merged PRs** and **125 open PRs** across **VS Code**, **NestJS** (CLI / Swagger / GraphQL), **Node.js** (core & undici), **BullMQ**, **Vite**, **Angular CLI**, **Swagger UI**, and **Excalidraw**
+- 🛠️ Strong in **TypeScript ecosystems** - NestJS, Next.js, Angular, React Native, and developer tooling
 - 📍 Based in **Chennai, India**
 
 ---
@@ -115,16 +115,16 @@ I'm also a Full Stack Developer — I build web and mobile applications end to e
 
 **Recent merged highlights:**
 
-- `nestjs/graphql` [#3970](https://github.com/nestjs/graphql/pull/3970) — fix(@nestjs/graphql): run plugin refresh hooks in registration order
-- `nestjs/graphql` [#3969](https://github.com/nestjs/graphql/pull/3969) — fix(@nestjs/apollo): expose schema transform hook on gateway driver
-- `nestjs/nest-cli` [#3422](https://github.com/nestjs/nest-cli/pull/3422) — fix(start): forward signals to child and exit watcher on shutdown
-- `nodejs/undici` [#5081](https://github.com/nodejs/undici/pull/5081) — fix(cache): include query in cache key when `opts.path` is undefined
-- `nodejs/undici` [#5068](https://github.com/nodejs/undici/pull/5068) — fix(fetch): prefer `filename*` over `filename` in multipart form-data
-- `microsoft/vscode` [#312492](https://github.com/microsoft/vscode/pull/312492) — webview: respect default `localResourceRoots` for custom editors
-- `microsoft/vscode` [#310979](https://github.com/microsoft/vscode/pull/310979) — fix(chat): cancel in-flight streaming tool invocations when response is cancelled
-- `taskforcesh/bullmq` [#4058](https://github.com/taskforcesh/bullmq/pull/4058) — fix(flow-producer): surface `ParentJobNotExist` errors from `add()`
-- `taskforcesh/bullmq` [#4007](https://github.com/taskforcesh/bullmq/pull/4007) — fix(worker): use scheduler registry to discriminate repeatable keys
-- `nestjs/graphql` [#3938](https://github.com/nestjs/graphql/pull/3938) — fix(@nestjs/graphql): inherit class directives from abstract parents
+- `nestjs/graphql` [#3970](https://github.com/nestjs/graphql/pull/3970) - fix(@nestjs/graphql): run plugin refresh hooks in registration order
+- `nestjs/graphql` [#3969](https://github.com/nestjs/graphql/pull/3969) - fix(@nestjs/apollo): expose schema transform hook on gateway driver
+- `nestjs/nest-cli` [#3422](https://github.com/nestjs/nest-cli/pull/3422) - fix(start): forward signals to child and exit watcher on shutdown
+- `nodejs/undici` [#5081](https://github.com/nodejs/undici/pull/5081) - fix(cache): include query in cache key when `opts.path` is undefined
+- `nodejs/undici` [#5068](https://github.com/nodejs/undici/pull/5068) - fix(fetch): prefer `filename*` over `filename` in multipart form-data
+- `microsoft/vscode` [#312492](https://github.com/microsoft/vscode/pull/312492) - webview: respect default `localResourceRoots` for custom editors
+- `microsoft/vscode` [#310979](https://github.com/microsoft/vscode/pull/310979) - fix(chat): cancel in-flight streaming tool invocations when response is cancelled
+- `taskforcesh/bullmq` [#4058](https://github.com/taskforcesh/bullmq/pull/4058) - fix(flow-producer): surface `ParentJobNotExist` errors from `add()`
+- `taskforcesh/bullmq` [#4007](https://github.com/taskforcesh/bullmq/pull/4007) - fix(worker): use scheduler registry to discriminate repeatable keys
+- `nestjs/graphql` [#3938](https://github.com/nestjs/graphql/pull/3938) - fix(@nestjs/graphql): inherit class directives from abstract parents
 
 **Currently contributing to:**
 
@@ -154,7 +154,7 @@ I'm also a Full Stack Developer — I build web and mobile applications end to e
 
 **Conversational Commerce Bot**
 <br/>NestJS 11 · TypeScript · SQLite · Express 5 · Meta WhatsApp Cloud API
-<br/>Production-grade bot bridging the WhatsApp Business API to a WooCommerce/Dokan marketplace. Customers browse products, manage carts, place orders, request quotes, and resolve disputes — all via WhatsApp. HMAC-SHA256 webhook verification, idempotency via SQLite, and multi-step conversation state.
+<br/>Production-grade bot bridging the WhatsApp Business API to a WooCommerce/Dokan marketplace. Customers browse products, manage carts, place orders, request quotes, and resolve disputes - all via WhatsApp. HMAC-SHA256 webhook verification, idempotency via SQLite, and multi-step conversation state.
 
 **Enterprise Sales & Commerce Analytics Platform**
 <br/>NestJS 10 · Next.js 15 · React 18 · PostgreSQL · Redis · Bull/BullMQ · Socket.io · D3.js · Chart.js
@@ -172,20 +172,20 @@ I'm also a Full Stack Developer — I build web and mobile applications end to e
 
 ### Experience
 
-**Data Engineer** — Finstein · Jul 2025 – Present
-<br/>Building and maintaining production data pipelines on Databricks for an enterprise data platform — medallion (Bronze / Silver / Gold) architecture on Delta Lake, PySpark and Spark SQL transformations, Spark performance tuning (partitioning, caching, compaction, Z-ordering), data quality validation, and Unity Catalog governance.
+**Data Engineer** - Finstein · Jul 2025 – Present
+<br/>Building and maintaining production data pipelines on Databricks for an enterprise data platform - medallion (Bronze / Silver / Gold) architecture on Delta Lake, PySpark and Spark SQL transformations, Spark performance tuning (partitioning, caching, compaction, Z-ordering), data quality validation, and Unity Catalog governance.
 
-**Full Stack Developer** — Finstein · Jul 2024 – Jul 2025
-<br/>Built and shipped web and cross-platform mobile applications end to end with Angular, Next.js, React Native (Expo), and NestJS/TypeScript backends over PostgreSQL, MySQL, and Redis — including background jobs with BullMQ and real-time features with Socket.io.
+**Full Stack Developer** - Finstein · Jul 2024 – Jul 2025
+<br/>Built and shipped web and cross-platform mobile applications end to end with Angular, Next.js, React Native (Expo), and NestJS/TypeScript backends over PostgreSQL, MySQL, and Redis - including background jobs with BullMQ and real-time features with Socket.io.
 
-**STEM Instructor** — LMES Academy · Jul 2023 – Jul 2024
+**STEM Instructor** - LMES Academy · Jul 2023 – Jul 2024
 <br/>Taught programming and app development using MIT App Inventor and Python.
 
 ---
 
 ### Education
 
-**B.Tech, Information Technology** — University College of Engineering Villupuram · 2019 – 2023
+**B.Tech, Information Technology** - University College of Engineering Villupuram · 2019 – 2023
 
 ---
 
