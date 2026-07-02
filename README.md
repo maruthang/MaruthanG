@@ -2,7 +2,7 @@
 
 # Maruthan G
 
-**Full Stack Developer** · TypeScript Ecosystems · Open Source Contributor
+**Data Engineer** · Databricks · PySpark · Delta Lake · **Full Stack Developer** · Open Source Contributor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maruthan-g-6a7415201)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maruthang)
@@ -14,12 +14,13 @@
 
 ### About Me
 
-Full Stack Developer at **Finstein**, shipping production web and mobile applications across NestJS, Next.js, Angular, React Native (Expo), and data platforms. Previously a STEM Instructor at LMES Academy.
+Data Engineer at **Finstein**, building scalable data platforms on Databricks, PySpark, Delta Lake, and Spark SQL. I work across the full data lifecycle — ingestion, transformation, and serving — using medallion (Bronze / Silver / Gold) lakehouse pipelines, data modeling, and Spark performance tuning.
 
-- 🔭 Building **full-stack web & mobile applications** and **data-driven platforms** at Finstein
+I'm also a Full Stack Developer — I build web and mobile applications end to end with NestJS, TypeScript, Angular, Next.js, and Expo. That software-engineering foundation is what makes my data work production-grade: clean code, version control, CI/CD, and testing.
+
+- 📊 Building **enterprise lakehouse pipelines** at Finstein — medallion architecture, Delta Lake optimization, Unity Catalog
 - 🚀 Active open source contributor — **68 merged PRs** and **125 open PRs** across **VS Code**, **NestJS** (CLI / Swagger / GraphQL), **Node.js** (core & undici), **BullMQ**, **Vite**, **Angular CLI**, **Swagger UI**, and **Excalidraw**
-- 🛠️ Specializing in **TypeScript ecosystems** — NestJS, Next.js, Angular, React Native, and developer tooling
-- 📊 Data engineering with **Databricks, PySpark, Delta Lake, dbt, and Power BI**
+- 🛠️ Strong in **TypeScript ecosystems** — NestJS, Next.js, Angular, React Native, and developer tooling
 - 📍 Based in **Chennai, India**
 
 ---
@@ -37,6 +38,16 @@ Full Stack Developer at **Finstein**, shipping production web and mobile applica
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Data Engineering**
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square&logo=databricks&logoColor=white)
+![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/Azure_ADLS_Gen2-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **Frontend**
 
@@ -61,15 +72,6 @@ Full Stack Developer at **Finstein**, shipping production web and mobile applica
 ![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
-
-**Data Engineering**
-
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square&logo=databricks&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 **Databases**
 
@@ -142,6 +144,10 @@ Full Stack Developer at **Finstein**, shipping production web and mobile applica
 
 ### Featured Projects
 
+**Enterprise Data Warehouse**
+<br/>Databricks · PySpark · Scala · Delta Lake · dbt · Azure ADLS · Dynatrace
+<br/>Medallion architecture (Bronze → Silver → Gold) powering executive reporting dashboards in the insurance domain. SCD Type 1/2 dimension handling, Delta Lake optimizations (OPTIMIZE, VACUUM, Z-ORDER), data quality validation, Unity Catalog governance, and Databricks Asset Bundles for infrastructure-as-code.
+
 **B2B Multi-Vendor Marketplace**
 <br/>WordPress + WooCommerce + Dokan · PHP · MariaDB · Redis · Docker Compose · GitLab CI/CD · Apache · LiteSpeed
 <br/>B2B marketplace with reverse auction bidding, KYC/seller verification, AI-powered product creation (AWS Lambda), live chat, and dispute management. 17+ custom WordPress plugins, full Docker Compose infrastructure, and a backup → deploy → rollback CI/CD pipeline.
@@ -153,10 +159,6 @@ Full Stack Developer at **Finstein**, shipping production web and mobile applica
 **Enterprise Sales & Commerce Analytics Platform**
 <br/>NestJS 10 · Next.js 15 · React 18 · PostgreSQL · Redis · Bull/BullMQ · Socket.io · D3.js · Chart.js
 <br/>Multi-channel analytics platform aggregating 8+ e-commerce and quick-commerce channels. Real-time dashboards, dynamic report builder, cohort analysis, 2FA/MFA (TOTP), CASL RBAC, and **192+ API endpoints**. IMAP-based email polling for platform verification.
-
-**Enterprise Data Warehouse**
-<br/>Databricks · PySpark · Scala · Delta Lake · dbt · Azure ADLS · Power BI · Dynatrace
-<br/>Medallion architecture (Bronze → Silver → Gold) powering executive Power BI dashboards in the insurance domain. SCD Type 1/2 dimension handling, Delta Lake optimizations (OPTIMIZE, VACUUM, Z-ORDER), and Databricks Asset Bundles for infrastructure-as-code.
 
 **Cross-Platform Fitness Ecosystem**
 <br/>NestJS 10 · React Native + Expo 51 · Next.js 15 · PostgreSQL · Socket.io · OpenAI GPT-4o
@@ -170,8 +172,11 @@ Full Stack Developer at **Finstein**, shipping production web and mobile applica
 
 ### Experience
 
-**Full Stack Developer** — Finstein · Jul 2024 – Present
-<br/>Building production web and mobile applications across NestJS, Next.js, Angular, React Native (Expo), PostgreSQL, Redis, and data platforms with Databricks, PySpark, and Power BI.
+**Data Engineer** — Finstein · Jul 2025 – Present
+<br/>Building and maintaining production data pipelines on Databricks for an enterprise data platform — medallion (Bronze / Silver / Gold) architecture on Delta Lake, PySpark and Spark SQL transformations, Spark performance tuning (partitioning, caching, compaction, Z-ordering), data quality validation, and Unity Catalog governance.
+
+**Full Stack Developer** — Finstein · Jul 2024 – Jul 2025
+<br/>Built and shipped web and cross-platform mobile applications end to end with Angular, Next.js, React Native (Expo), and NestJS/TypeScript backends over PostgreSQL, MySQL, and Redis — including background jobs with BullMQ and real-time features with Socket.io.
 
 **STEM Instructor** — LMES Academy · Jul 2023 – Jul 2024
 <br/>Taught programming and app development using MIT App Inventor and Python.
