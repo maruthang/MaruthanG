@@ -19,7 +19,7 @@ Data Engineer at **Finstein**, building scalable data platforms on Databricks, P
 I'm also a Full Stack Developer - I build web and mobile applications end to end with NestJS, TypeScript, Angular, Next.js, and Expo. That software-engineering foundation is what makes my data work production-grade: clean code, version control, CI/CD, and testing.
 
 - 📊 Building **enterprise lakehouse pipelines** at Finstein - medallion architecture, Delta Lake optimization, Unity Catalog
-- 🚀 Active open source contributor - **68 merged PRs** and **125 open PRs** across **VS Code**, **NestJS** (CLI / Swagger / GraphQL), **Node.js** (core & undici), **BullMQ**, **Vite**, **Angular CLI**, **Swagger UI**, and **Excalidraw**
+- 🚀 Active open source contributor - **69 merged PRs** and **122 open PRs** across **VS Code**, **NestJS** (CLI / Swagger / GraphQL), **Node.js** (core & undici), **BullMQ**, **Vite**, **Angular CLI**, **Swagger UI**, and **Excalidraw**
 - 🛠️ Strong in **TypeScript ecosystems** - NestJS, Next.js, Angular, React Native, and developer tooling
 - 📍 Based in **Chennai, India**
 
@@ -96,18 +96,18 @@ I'm also a Full Stack Developer - I build web and mobile applications end to end
 
 ### Open Source Contributions
 
-**68 merged pull requests** and **125 open PRs** across major runtimes, frameworks, and developer tools:
+**69 merged pull requests** and **122 open PRs** across major runtimes, frameworks, and developer tools:
 
 | Project | Stars | Merged | Open | Focus |
 |---------|-------|:------:|:----:|-------|
-| [nestjs/nest-cli](https://github.com/nestjs/nest-cli) | 2.1k+ | 18 | 1 | Build system, SWC compiler, watch mode, signal forwarding, monorepo assets |
-| [microsoft/vscode](https://github.com/microsoft/vscode) | 183k+ | 14 | 58 | Editor core, chat & agent sessions, debug, terminal, workbench UI |
+| [nestjs/nest-cli](https://github.com/nestjs/nest-cli) | 2.1k+ | 18 | 1 | Build system, SWC compiler, watch mode, signal forwarding, library assets |
+| [microsoft/vscode](https://github.com/microsoft/vscode) | 183k+ | 14 | 56 | Editor core, chat & agent sessions, debug, terminal, workbench UI |
 | [nestjs/swagger](https://github.com/nestjs/swagger) | 1.4k+ | 14 | 0 | Schema handling, CLI plugin fixes, enum mutation, TS project references |
 | [nestjs/graphql](https://github.com/nestjs/graphql) | 1.5k+ | 9 | 0 | Apollo drivers, federation directives, subscriptions, decorator metadata |
 | [nodejs/undici](https://github.com/nodejs/undici) | 7k+ | 6 | 0 | Fetch spec compliance, cache keys, interceptors, type definitions |
 | [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) | 7k+ | 4 | 13 | Worker scheduler registry, repeatable jobs, queue internals, Lua scripts |
 | [angular/angular-cli](https://github.com/angular/angular-cli) | 27k+ | 2 | 3 | Build system, error stack traces, styleUrl validation |
-| [microsoft/vscode-html-languageservice](https://github.com/microsoft/vscode-html-languageservice) | 400+ | 1 | 7 | Completion ranges, scanner and parser fixes |
+| [microsoft/vscode-html-languageservice](https://github.com/microsoft/vscode-html-languageservice) | 400+ | 2 | 6 | Completion ranges, scanner and parser fixes |
 | [nodejs/node](https://github.com/nodejs/node) | 110k+ | 0 | 12 | fs, streams, buffer, crypto, test_runner, CLI options |
 | [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) | 27k+ | 0 | 12 | OAS 3.1 schema refs, auth popup styling, OAuth2 tests |
 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 100k+ | 0 | 9 | Drawing tool fixes, UI improvements |
