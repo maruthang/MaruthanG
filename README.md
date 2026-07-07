@@ -19,7 +19,7 @@ Data Engineer at **Finstein**, building scalable data platforms on Databricks, P
 I'm also a Full Stack Developer - I build web and mobile applications end to end with NestJS, TypeScript, Angular, Next.js, and Expo. That software-engineering foundation is what makes my data work production-grade: clean code, version control, CI/CD, and testing.
 
 - 📊 Building **enterprise lakehouse pipelines** at Finstein - medallion architecture, Delta Lake optimization, Unity Catalog
-- 🚀 Active open source contributor - **69 merged PRs** and **122 open PRs** across **VS Code**, **NestJS** (CLI / Swagger / GraphQL), **Node.js** (core & undici), **BullMQ**, **Vite**, **Angular CLI**, **Swagger UI**, and **Excalidraw**
+- 🚀 Active open source contributor - **70 merged PRs** and **119 open PRs** across **VS Code**, **NestJS** (CLI / Swagger / GraphQL), **Node.js** (core & undici), **BullMQ**, **Vite**, **Angular CLI**, **Swagger UI**, and **Excalidraw**
 - 🛠️ Strong in **TypeScript ecosystems** - NestJS, Next.js, Angular, React Native, and developer tooling
 - 📍 Based in **Chennai, India**
 
@@ -96,7 +96,7 @@ I'm also a Full Stack Developer - I build web and mobile applications end to end
 
 ### Open Source Contributions
 
-**69 merged pull requests** and **122 open PRs** across major runtimes, frameworks, and developer tools:
+**70 merged pull requests** and **119 open PRs** across major runtimes, frameworks, and developer tools:
 
 | Project | Stars | Merged | Open | Focus |
 |---------|-------|:------:|:----:|-------|
@@ -105,7 +105,7 @@ I'm also a Full Stack Developer - I build web and mobile applications end to end
 | [nestjs/swagger](https://github.com/nestjs/swagger) | 1.4k+ | 14 | 0 | Schema handling, CLI plugin fixes, enum mutation, TS project references |
 | [nestjs/graphql](https://github.com/nestjs/graphql) | 1.5k+ | 9 | 0 | Apollo drivers, federation directives, subscriptions, decorator metadata |
 | [nodejs/undici](https://github.com/nodejs/undici) | 7k+ | 6 | 0 | Fetch spec compliance, cache keys, interceptors, type definitions |
-| [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) | 7k+ | 4 | 13 | Worker scheduler registry, repeatable jobs, queue internals, Lua scripts |
+| [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) | 7k+ | 5 | 12 | Worker scheduler registry, repeatable jobs, queue internals, Lua scripts |
 | [angular/angular-cli](https://github.com/angular/angular-cli) | 27k+ | 2 | 3 | Build system, error stack traces, styleUrl validation |
 | [microsoft/vscode-html-languageservice](https://github.com/microsoft/vscode-html-languageservice) | 400+ | 2 | 6 | Completion ranges, scanner and parser fixes |
 | [nodejs/node](https://github.com/nodejs/node) | 110k+ | 0 | 12 | fs, streams, buffer, crypto, test_runner, CLI options |
