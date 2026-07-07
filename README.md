@@ -100,7 +100,7 @@ I'm also a Full Stack Developer - I build web and mobile applications end to end
 
 | Project | Stars | Merged | Open | Focus |
 |---------|-------|:------:|:----:|-------|
-| [nestjs/nest-cli](https://github.com/nestjs/nest-cli) | 2.1k+ | 18 | 1 | Build system, SWC compiler, watch mode, signal forwarding, library assets |
+| [nestjs/nest-cli](https://github.com/nestjs/nest-cli) | 2.1k+ | 18 | 0 | Build system, SWC compiler, watch mode, signal forwarding, library assets |
 | [microsoft/vscode](https://github.com/microsoft/vscode) | 183k+ | 14 | 56 | Editor core, chat & agent sessions, debug, terminal, workbench UI |
 | [nestjs/swagger](https://github.com/nestjs/swagger) | 1.4k+ | 14 | 0 | Schema handling, CLI plugin fixes, enum mutation, TS project references |
 | [nestjs/graphql](https://github.com/nestjs/graphql) | 1.5k+ | 9 | 0 | Apollo drivers, federation directives, subscriptions, decorator metadata |
