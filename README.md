@@ -19,7 +19,7 @@ Data Engineer at **Finstein**, building scalable data platforms on Databricks, P
 I'm also a Full Stack Developer - I build web and mobile applications end to end with NestJS, TypeScript, Angular, Next.js, and Expo. That software-engineering foundation is what makes my data work production-grade: clean code, version control, CI/CD, and testing.
 
 - 📊 Building **enterprise lakehouse pipelines** at Finstein - medallion architecture, Delta Lake optimization, Unity Catalog
-- 🚀 Active open source contributor - **70 merged PRs** and **119 open PRs** across **VS Code**, **NestJS** (CLI / Swagger / GraphQL), **Node.js** (core & undici), **BullMQ**, **Vite**, **Angular CLI**, **Swagger UI**, and **Excalidraw**
+- 🚀 Active open source contributor - **71 merged PRs** and **121 open PRs** across **VS Code**, **NestJS** (CLI / Swagger / GraphQL), **Node.js** (core & undici), **BullMQ**, **Vite**, **Angular CLI**, **Swagger UI**, and **Excalidraw**
 - 🛠️ Strong in **TypeScript ecosystems** - NestJS, Next.js, Angular, React Native, and developer tooling
 - 📍 Based in **Chennai, India**
 
@@ -96,12 +96,12 @@ I'm also a Full Stack Developer - I build web and mobile applications end to end
 
 ### Open Source Contributions
 
-**70 merged pull requests** and **119 open PRs** across major runtimes, frameworks, and developer tools:
+**71 merged pull requests** and **121 open PRs** across major runtimes, frameworks, and developer tools:
 
 | Project | Stars | Merged | Open | Focus |
 |---------|-------|:------:|:----:|-------|
 | [nestjs/nest-cli](https://github.com/nestjs/nest-cli) | 2.1k+ | 18 | 0 | Build system, SWC compiler, watch mode, signal forwarding, library assets |
-| [microsoft/vscode](https://github.com/microsoft/vscode) | 183k+ | 14 | 56 | Editor core, chat & agent sessions, debug, terminal, workbench UI |
+| [microsoft/vscode](https://github.com/microsoft/vscode) | 183k+ | 15 | 56 | Editor core, chat & agent sessions, debug, terminal, workbench UI |
 | [nestjs/swagger](https://github.com/nestjs/swagger) | 1.4k+ | 14 | 0 | Schema handling, CLI plugin fixes, enum mutation, TS project references |
 | [nestjs/graphql](https://github.com/nestjs/graphql) | 1.5k+ | 9 | 0 | Apollo drivers, federation directives, subscriptions, decorator metadata |
 | [nodejs/undici](https://github.com/nodejs/undici) | 7k+ | 6 | 0 | Fetch spec compliance, cache keys, interceptors, type definitions |
